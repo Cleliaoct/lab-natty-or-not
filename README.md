@@ -23,17 +23,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Inteligência Artificial: Uma Aliada para Quem Tem Dificuldade com Tecnologia" apresenta, de forma simples e prática, como a IA pode facilitar o dia a dia, mesmo para quem tem pouca experiência com tecnologia
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o chatgpt para aprimorar minhas pesquisas e o Speechify para criação do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Ao analisar dificuldades de pessoas próximas com a tecnologia pensei em formas que a ia pode ajuda- las , que seja simples e prático 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+https://voiceover.speechify.com/share/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcm9qZWN0SWQiOiIyRmg0VWRSdGtka3RkNEpOYTE3ZkR1IiwiYWNjZXNzTGV2ZWwiOiJWaWV3ZXIiLCJpYXQiOjE3MzM3OTAzODAsImV4cCI6MTczNjM4MjM4MH0.EK1eabXvDBWVZWcPx8Cf9yCu3TOzzIHkJVHIeve-t-Y
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
